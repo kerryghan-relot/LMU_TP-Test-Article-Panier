@@ -1,0 +1,9 @@
+com\soprasteria\panier\model\exceptions\MontantTropEleveException.class
+com\soprasteria\panier\model\exceptions\QuantiteArticleTropGrandeException.class
+com\soprasteria\panier\model\Article.class
+com\soprasteria\panier\model\Panier.class
+com\soprasteria\tools\OutilsChaine.class
+com\soprasteria\panier\model\exceptions\ArticleInexistantException.class
+com\soprasteria\panier\model\exceptions\TropDeReferencesException.class
+com\soprasteria\panier\model\exceptions\VersionDeFichierNonGeree.class
+com\soprasteria\panier\model\LignePanier.class

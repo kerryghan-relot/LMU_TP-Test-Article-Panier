@@ -1,0 +1,9 @@
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\Article.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\exceptions\ArticleInexistantException.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\exceptions\MontantTropEleveException.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\exceptions\TropDeReferencesException.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\tools\OutilsChaine.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\Panier.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\exceptions\VersionDeFichierNonGeree.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\LignePanier.java
+D:\Documents\Proton Drive\My files\Cours\Test Logiciel\TP1 - Test Unitaire\tp1-panier-src\src\main\java\com\soprasteria\panier\model\exceptions\QuantiteArticleTropGrandeException.java
